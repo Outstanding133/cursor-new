@@ -6,7 +6,7 @@ Welcome to **`cursor-new`**, a simple, clean, and fully responsive **Cybersecuri
 
 ## 🚀 Live Preview
 
-[🔗 View Live Site](https://your-username.github.io/cursor-new)  
+[🔗 View Live Site](https://outstanding133.github.io/cursor-new/)  
 > Replace `your-username` with your actual GitHub username.
 
 ---
