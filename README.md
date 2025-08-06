@@ -37,5 +37,5 @@ Welcome to **`cursor-new`**, a simple, clean, and fully responsive **Cybersecuri
 
 ---
 
-## 📂 Folder Structure
+
 
