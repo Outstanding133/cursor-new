@@ -33,7 +33,7 @@ Welcome to **`cursor-new`**, a simple, clean, and fully responsive **Cybersecuri
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop Screenshot](https://via.placeholder.com/500x300.png?text=Desktop+View) | ![Mobile Screenshot](https://via.placeholder.com/200x400.png?text=Mobile+View) |
+| ![Desktop Screenshot](pic/ss3.jpg) | ![Mobile Screenshot](pic/ss2.jpg) |
 
 ---
 
